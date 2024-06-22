@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-21T12:10:46 IST" name="Default suite" finished-at="2024-06-21T12:11:23 IST" duration-ms="36711">
+    <groups>
+    </groups>
+    <test started-at="2024-06-21T12:10:46 IST" name="Default test" finished-at="2024-06-21T12:11:23 IST" duration-ms="36711">
+      <class name="com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:10:46 IST" name="beforeTest" finished-at="2024-06-21T12:11:03 IST" duration-ms="16585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:03 IST" name="startReport" finished-at="2024-06-21T12:11:03 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration.customerRegistration() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="customerRegistration()[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:03 IST" name="customerRegistration" finished-at="2024-06-21T12:11:23 IST" duration-ms="19458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerRegistration -->
+        <test-method is-config="true" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:23 IST" name="endReport" finished-at="2024-06-21T12:11:23 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerRegistration status=SUCCESS method=TC001_CustomerRegistration.customerRegistration()[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:23 IST" name="startReport" finished-at="2024-06-21T12:11:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration.hmsLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="hmsLogin()[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:23 IST" name="hmsLogin" finished-at="2024-06-21T12:11:23 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hmsLogin -->
+        <test-method is-config="true" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:23 IST" name="endReport" finished-at="2024-06-21T12:11:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=hmsLogin status=SUCCESS method=TC001_CustomerRegistration.hmsLogin()[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:23 IST" name="startReport" finished-at="2024-06-21T12:11:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration.hmsLogout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="hmsLogout()[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:23 IST" name="hmsLogout" finished-at="2024-06-21T12:11:23 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hmsLogout -->
+        <test-method is-config="true" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:23 IST" name="endReport" finished-at="2024-06-21T12:11:23 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=hmsLogout status=SUCCESS method=TC001_CustomerRegistration.hmsLogout()[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration@4bb33f74]" started-at="2024-06-21T12:11:23 IST" name="endTest" finished-at="2024-06-21T12:11:23 IST" duration-ms="577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.uaisel.E_Commerce_POM.home.TC001_CustomerRegistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
