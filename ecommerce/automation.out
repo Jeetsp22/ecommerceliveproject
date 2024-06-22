@@ -1,0 +1,169 @@
+****Starting TC001_Customer Registration****
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> link text: Sign in]
+Entering Email ID :qatest8461@gmail.com using object[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (bd6bba2110bf260295aab2c90e56a039)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> link text: Sign in]
+Entering Email ID :qatest9742@gmail.com using object[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: SubmitCreate]
+Verifying customer info page by using object:CREATE AN ACCOUNT
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (cdc78d77fe3045af87153c8d6e06ffbb)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> link text: Sign in]
+Entering Email ID :qatest5327@gmail.com using object[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (69eecd34125cf08ac8f87fced402dc55)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> link text: Sign in]
+Entering Email ID :qatest5039@gmail.com using object[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (e94c79be3002c88efda9176fccf968f9)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> link text: Sign in]
+Entering Email ID :qatest1300@gmail.com using object[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (8515f5c7066c9ca323560297624e6a97)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> link text: Sign in]
+Entering Email ID :qatest9752@gmail.com using object[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (0139a5aae19128ed0afd9697175e19e3)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> link text: Sign in]
+Entering Email ID :qatest1415@gmail.com using object[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (e5dd9cfefc9734088fc8d2b3ce198714)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> link text: Sign in]
+Entering Email ID :qatest728@gmail.com using object[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (3f02cf5a6a62108a5e2c3155e6a1dbcd)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> link text: Sign in]
+Entering Email ID :qatest6306@gmail.com using object[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (b96f541e43cada02f4b514252949f31b)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> link text: Sign in]
+Entering Email ID :qatest7462@gmail.com using object[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (10cf048acaa9aef2f8df854ab54094d8)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
+****Starting TC001_Customer Registration****
+Clicked on SignIN button with object:[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> link text: Sign in]
+Entering Email ID :qatest4816@gmail.com using object[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: email_create]
+Clicking on Create an account: [[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> id: years]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on windows (9a0e5a6105b3ea0a7c12b3198bb0ebed)] -> xpath: //h1[text()='My account']]
+****End TC001_Customer Registration****
